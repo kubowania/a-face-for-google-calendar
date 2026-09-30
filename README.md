@@ -5,7 +5,7 @@ One file: `agent.py`. Made in support for the tutorial [here](https://youtu.be/x
 
 ## Setup
 
-1. Keys: copy `.env.example` to `.env` and fill in your LiveKit Cloud keys and Synthesia API key.
+1. Keys: copy `.env.example` to `.env` and fill in your LiveKit Cloud keys and [Synthesia API key](https://www.synthesia.io/features/avatars/interactive-avatars?utm_source=youtube&utm_medium=creator&utm_campaign=interactive_avatar_api&utm_content=ania).
 2. Google: in Google Cloud Console, enable the **Google Calendar API**, add yourself as a test user
    on the OAuth consent screen, create an **OAuth client ID (Desktop app)** and save it here as `credentials.json`.
 3. Install:
