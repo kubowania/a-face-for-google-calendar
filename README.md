@@ -1,7 +1,7 @@
 # My Calendar, With a Face
 
 A real-time AI avatar that reads your Google Calendar and holds you accountable.
-One file: `agent.py`.
+One file: `agent.py`. Made in support for the tutorial [here](https://youtu.be/xQoJA9_1EXA)
 
 ## Setup
 
